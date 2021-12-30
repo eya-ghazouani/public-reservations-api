@@ -1,0 +1,46 @@
+{
+"reservations" :[
+{    "id" : "1",
+        "clientname" :"aya",
+        "datearrivee" :"10-04-2000",
+        "nbrnuits" : 4,
+        "nbrenfants" : 3,
+        "nbradultes" : 2,
+        "nbrchambres" : 4
+    },
+    {     "id" : "1",
+        "clientname" :"aya2",
+        "datearrivee" :"10-04-2000",
+        "nbrnuits" : 4,
+        "nbrenfants" : 3,
+        "nbradultes" : 2,
+        "nbrchambres" : 4
+    },
+    {
+        "id" : "1",
+        "clientname" :"aya3",
+        "datearrivee" :"10-04-2000",
+        "nbrnuits" : 4,
+        "nbrenfants" : 3,
+        "nbradultes" : 2,
+        "nbrchambres" : 4
+    },
+    {
+        "id" : "1",
+        "clientname" :"aya4",
+        "datearrivee" :"10-04-2000",
+        "nbrnuits" : 4,
+        "nbrenfants" : 3,
+        "nbradultes" : 2,
+        "nbrchambres" : 4
+    },
+    {     "id" : "1",
+        "clientname" :"aya5",
+        "datearrivee" :"10-04-2000",
+        "nbrnuits" : 4,
+        "nbrenfants" : 3,
+        "nbradultes" : 2,
+        "nbrchambres" : 4
+    }
+]
+}
